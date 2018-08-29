@@ -1,0 +1,71 @@
+@CHARSET "UTF-8";
+
+.head {
+	background-color: #99bbbb;
+	text-align: center;
+	line-height: 100px;
+	height: 100px;
+	width: 100%;
+}
+
+.left {
+	background-color:#7E7395;
+	width: 60%;
+	height: 400px;
+	float: left;
+}
+
+.right {
+	background-color: #EEEEEE;
+	text-align: center;
+	width: 40%;
+	height: 400px;
+	float: left;
+}
+.mainLeft{
+	background-color: #C9C4C4;
+	width:25%;
+	height:500px;
+	float:left;
+}
+.mainRight{
+	background-color: #EEEEEE;
+	width:75%;
+	height:500px;
+	float:left;
+}
+
+
+.righttop {
+	background-color: #EEEEEE;
+	text-align: center;
+	height: 100px;
+	float: left;
+}
+
+.footer {
+	background-color: #99bbbb;
+	text-align: center;
+	clear: both;
+}
+.registerStyle{
+	background-color: #EEEEEE;
+	text-align: center;
+	height:500px;
+	width:50%;
+	margin:0 auto;
+	float:center;
+}
+.buttonStyle{
+	width:200px;
+	height:30px;	
+}
+
+
+
+
+
+
+
+
+
